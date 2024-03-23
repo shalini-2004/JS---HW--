@@ -2,27 +2,27 @@
 
 // // .Q.1.........
 
-// let a=20;
-// let b=10;
-// console.log("sum = ",a+b)
-// console.log("difference = ",a-b)
-// console.log("product = ",a*b)
-// console.log("quotient = ",a/b)
-// console.log("modulus = ",a%b)
+let a=20;
+let b=10;
+console.log("sum = ",a+b)
+console.log("difference = ",a-b)
+console.log("product = ",a*b)
+console.log("quotient = ",a/b)
+console.log("modulus = ",a%b)
 
 // // .Q.2.................
 
-// let a=10;
-// let b=5;
-// if(a%b==0){
-//     console.log(a/b)
-// }
+let a1=10;
+let b1=5;
+if(a1%b1==0){
+    console.log(a1/b1)
+}
 
 // // .Q.3................
 
-// let a=6;
-// let b=3;
-// console.log(a**b)
+let a2=6;
+let b2=3;
+console.log(a2**b2)
 
 // // .Q.4................
 
